@@ -9,3 +9,12 @@ image: "image.jpg"
 This is a post with executable code.
 
 
+
+```{python}
+import numpy as import numpy as np
+
+
+a=np.arange(10)
+a
+
+```
