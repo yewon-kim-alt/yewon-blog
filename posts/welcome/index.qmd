@@ -12,9 +12,3 @@ This is the first post in a Quarto blog. Welcome!
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
 
-
-```{python}
-import numpy as np
-
-a=np.arange()
-```
