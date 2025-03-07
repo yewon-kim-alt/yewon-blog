@@ -4,6 +4,8 @@ format: html
 jupyter: python3
 ---
 
+![](thumbnail.jpg)
+
 ## 1. 분석 개요 및 목표
 
 -   펭귄 3종(Adelie, Gentoo, Chinstrap)별 특징을 알아보자!
