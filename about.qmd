@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "yewon"
 image: profile.jpg
 about:
   template: jolla
@@ -14,6 +14,7 @@ about:
       text: Github
       href: https://github.com
 
+
 ---
 
-About this blog
+통계와 데이터 분석 열심히 공부해 보겠습니다!
